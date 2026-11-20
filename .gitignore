@@ -1,0 +1,6 @@
+/codec/
+/.codec-build.*/
+__pycache__/
+*.exe
+*.log
+.DS_Store
